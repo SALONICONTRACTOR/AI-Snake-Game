@@ -1,0 +1,11 @@
+numpy
+pygame
+tensorflow
+tensorflow_probability
+pysdl2===0.9.7
+pysdl2-dll
+gym
+torch
+matplotlib
+tqdm
+ipython
